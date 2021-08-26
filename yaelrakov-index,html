@@ -1,0 +1,21 @@
+# fswd-maalot.github.io
+background(177, 201, 230); // wooden table
+strokeWeight(4);
+fill(148, 112, 50);
+ellipse(200, 200, 350, 350); // plate
+fill(255, 255, 255);
+ellipse(200, 200, 300, 300); 
+
+fill(227, 117, 113);
+ellipse(271,110, 100, 100);
+fill(224, 161, 67);
+ellipse(319,193, 100, 100);
+fill(233, 245, 71);
+ellipse(233,193, 100, 100);
+strokeWeight(19);
+line(238,62, 144, 151);
+line(256,54, 103, 151);noStroke();
+fill(161, 126, 126);
+rect(55, 161, 130, 100); 
+fill(201, 188, 161);
+rect(89, 236, 130, 100);
